@@ -39,11 +39,11 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       }
     })
 
-    .state('app.browse', {
-      url: "/browse",
+    .state('app.vidoes', {
+      url: "/Vidoes",
       views: {
         'menuContent' :{
-          templateUrl: "templates/browse.html"
+          templateUrl: "templates/Vidoes.html"
         }
       }
     })
