@@ -1,0 +1,34 @@
+/* Common Styles */
+.img-responsive
+{
+  width: 100%;
+  height: auto;
+}
+
+/* News Page */
+a.item-content 
+{
+  padding: 16px !important;
+}
+
+.masonry-brick
+{
+   float: left;
+   width: 47%;
+   margin-left: 2%;
+  margin-bottom: 2%;
+  background-color:#444444;
+}
+
+.div-cover
+{
+    margin-left: 2%;
+    width: :94%;
+}
+
+.div-cover > div
+{
+    width: 98%;
+    margin-top:2%;
+}
+
